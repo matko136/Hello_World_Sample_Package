@@ -5,6 +5,6 @@ class Hello
 {
     public static function sayHi()
     {
-        return "Hello from sample package v1.0.1!";
+        return "Hello from sample package v1.0.2!";
     }
 }
