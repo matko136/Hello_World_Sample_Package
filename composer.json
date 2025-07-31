@@ -1,0 +1,12 @@
+{
+  "name": "matko136/HelloWorld",
+  "description": "A sample package to test Packagist publishing",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "matko136\\HelloWorld\\": "src/"
+    }
+  },
+  "require": {}
+}
