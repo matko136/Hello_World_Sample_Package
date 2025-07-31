@@ -3,7 +3,7 @@
   "description": "A sample package to test Packagist publishing",
   "type": "library",
   "license": "MIT",
-  "version": 1.0.1
+  "version": "1.0.1"
   "autoload": {
     "psr-4": {
       "matko136\\HelloWorld\\": "src/"
